@@ -4,4 +4,4 @@
 • Install the latest version of Python.<br>
 • Install Selenium Library: pip install selenium<br>
 • Make sure to watch the full tutorial on how to use the bot step by step.<br>
-  > https://youtu.be/Dy6Py1OC5lA
+  > https://youtu.be/6NBilS_m-2U
